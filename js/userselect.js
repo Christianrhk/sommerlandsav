@@ -1,29 +1,21 @@
 var app = new function() {
   this.el = document.getElementById('names');
   this.names = [
-    ["Andreas", ["mDFBTdToRmw"], "profil/andreas.jpg", true], // Skibidi
-    ["J_n",["eI-THZvxzdI"], "profil/jan.jpg", true], // Alt på Svensk
-    ["Oda", ["y6120QOlsfU", "TBElYMDycWk"], "profil/gluten.jpg", true], // Darude Sandstorm + Hvor er du bro?
-    ["Harald", ["jvSpwN5aioo"], "profil/harald.jpg", true], // Alt med Magtens korridorer
-    ["Frederik V", ["J294A-R1Cjk"], "profil/vejby.jpg", true], // Dancing on my own
-    ["Christian Kjær", ["MFBPzmLjEm4"],"profil/christian.jpg", true], // Alt med TopGunn 
-    ["Rune", ["Qa_2C15Uh5c"], "profil/rune.jpg", true], // Kinky fætter 
-    ["Vindue", ["rY-DY6dUDuA"], "profil/vindue.jpg", true], // Beautiful Morning
-    ["Frederik H", ["L_jWHffIx5E"], "profil/hejby.jpg", true], // Smash mouth - All star
-    ["Ida", ["jqwyd749KGw"], "profil/ida.jpg", true], //Vodkafjæs :(
-    ["Martin", ["wSzcdRz6aso", "moSFlvxnbgk"], "profil/martin.jpg", true], //Alt med Disney
-    ["Daniel", ["UNAr5tzZxdk", "Jc2xfYuLWgE"], "profil/daniel.jpg", true], //Witch Doctor + Freak
-    ["Lars", ["X-77txuiVXs"], "profil/lars.jpg", true], //Vamas a la pleya og andre remix af denne
-    ["Simon", ["fGx6K90TmCI","Fegs-XVKgnM"], "profil/simon.jpg", true], //X gonna give it ya
-    ["Jasmin", ["CduA0TULnow", "HMqgVXSvwGo"], "profil/jasmin.jpg", true], //Fireball + Oops I did it again
-    ["Christian Rømer", ["8oVndw4gRWQ"],"profil/romer.jpg", true], //Ole Dakøje
-    ["Emma", ["YPV8LqSRSDg"], "profil/emma.jpg", true], //Alt med Nik og Jay
-    ["Bao", ["wYuPn0CM8Ww"], "profil/bao.jpg", true], //Elskovspony
-    ["Rydhof", ["e-ORhEE9VVg?t=6"], "profil/jakob.jpg", true], // 
-    ["Geertinger", ["jKbR7u8J5PU"], "profil/geert.jpg", true],
-    ["Piilmann", ["Oktjs-HMNIc"], "profil/pille.jpg", true],
-    ["Frederiksen", ["0NTDqqnH9Bk"], "profil/frederik.jpg", true],
-    ["Marcus", ["VLnWf1sQkjY", "lQlIhraqL7o", "X0DeIqJm4vM", "gAYL5H46QnQ"], "profil/marcus.jpg", true]
+    ["Cinna", ["jGflUbPQfW8"],"profil/christian.jpg",true], 
+    ["Knud", ["wTCO5tZ7zZ8"], "profil/HAFFE.png",true],
+    ["Aupairvers", ["y3Gw3uc2f24"], "profil/bao.jpg",true], 
+    ["Fader Bundløs", ["8oVndw4gRWQ"], "profil/AM.jpeg",true],
+    ["Hannah", ["9ZrAYxWPN6c"], "profil/anna.jpg",true],
+    ["Cockpete", ["siwpn14IE7E"], "profil/frederik.jpeg",true],
+    ["Slik'ma'lige", ["lp3SHXoIwBM"], "profil/kevin.jpg",true],
+    ["John Beere", ["hbMwvpUG-CE"], "profil/lasse.jpeg",true],
+    ["Ted Bundy", ["hAx6mYeC6pY"], "profil/lukas.jpg",true],
+    ["FlowerSour", ["WeYsTmIzjkw"], "profil/mads.jpeg",true],
+    ["Squirtle", ["HMqgVXSvwGo"], "profil/marie.jpeg",true],
+    ["DR. PJUSKEDUSK", ["lQlIhraqL7o"], "profil/peter.jpeg",true],
+    ["Donald", ["0NTDqqnH9Bk"], "profil/rolf.jpg",true],
+    ["SlidteGitte", ["CtwJvgPJ9xw"], "profil/sallie.jpg",true],
+    ["Bundtner", ["OcHdHNbC3jM"], "profil/signe.jpeg",true]
     ];
 
   this.Count = function() {
