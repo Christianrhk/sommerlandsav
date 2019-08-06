@@ -28,7 +28,7 @@ var items = [
     ["Bundtner", ["OcHdHNbC3jM"], "profil/signe.jpeg"],
   ];
 
-var extrafield = ["Alle", ["DsisHmtfnGI"], "FACEBOOKID"];
+var extrafield = ["Alle", ["U0cIIbK71_o"], "FACEBOOKID"];
 var antalslices = items.length
 // KORREKT YOUTUBE URL Med autoplay og start ved 0:30 sek mark
 // https://www.youtube.com/embed/2YllipGl2Is?start=30&autoplay=1
