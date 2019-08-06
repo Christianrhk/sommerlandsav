@@ -11,9 +11,21 @@ var latestHits = [];
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var items = [
-    ["CK", ["jGflUbPQfW8"],"profil/christian.jpg"], 
-    ["HAF", ["wTCO5tZ7zZ8"], "profil/haf.PNG"],
-    ["Bao", ["y3Gw3uc2f24"], "profil/bao.jpg"], 
+    ["Cinna", ["jGflUbPQfW8"],"profil/christian.jpg"], 
+    ["Knud", ["wTCO5tZ7zZ8"], "profil/HAFFE.png"],
+    ["Aupairvers", ["y3Gw3uc2f24"], "profil/bao.jpg"], 
+    ["Fader Bundløs", ["8oVndw4gRWQ"], "profil/AM.jpeg"],
+    ["Hannah", ["9ZrAYxWPN6c"], "profil/anna.jpg"],
+    ["Cockpete", ["siwpn14IE7E"], "profil/frederik.jpeg"],
+    ["Slik'ma'lige", ["lp3SHXoIwBM"], "profil/kevin.jpg"],
+    ["John Beere", ["hbMwvpUG-CE"], "profil/lasse.jpeg"],
+    ["Ted Bundy", ["hAx6mYeC6pY"], "profil/lukas.jpg"],
+    ["FlowerSour", ["WeYsTmIzjkw"], "profil/mads.jpeg"],
+    ["Squirtle", ["HMqgVXSvwGo"], "profil/marie.jpeg"],
+    ["DR. PJUSKEDUSK", ["lQlIhraqL7o"], "profil/peter.jpeg"],
+    ["Donald", ["0NTDqqnH9Bk"], "profil/rolf.jpg"],
+    ["SlidteGitte", ["CtwJvgPJ9xw"], "profil/sallie.jpg"],
+    ["Bundtner", ["OcHdHNbC3jM"], "profil/signe.jpeg"],
   ];
 
 var extrafield = ["Alle", ["DsisHmtfnGI"], "FACEBOOKID"];
