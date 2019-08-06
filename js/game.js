@@ -2,7 +2,7 @@ var game;
 var wheel;
 var canSpin;
 //var antalslices = prompt("Hvor mange personer er i? (2-100)","18")
-var hjulfarver = [0x1456ff, 0x1c8cff]
+var hjulfarver = [0xD18CDF, 0xCA2360]
 var hjulradius = 350
 var latestHits = [];
 
@@ -11,9 +11,9 @@ var latestHits = [];
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var items = [
-    ["Christian Kjær", ["MFBPzmLjEm4"],"profil/christian.jpg"], // Alt med TopGunn 
-    ["Jasmin", ["CduA0TULnow", "HMqgVXSvwGo"], "profil/jasmin.jpg"],
-    ["Bao", ["wYuPn0CM8Ww"], "profil/bao.jpg"], //Elskovspony
+    ["CK", ["jGflUbPQfW8"],"profil/christian.jpg"], 
+    ["HAF", ["wTCO5tZ7zZ8"], "profil/haf.PNG"],
+    ["Bao", ["y3Gw3uc2f24"], "profil/bao.jpg"], 
   ];
 
 var extrafield = ["Alle", ["DsisHmtfnGI"], "FACEBOOKID"];
@@ -238,7 +238,7 @@ playGame.prototype = {
 
       var winner = items[prize][1][antalsange];
       console.log(items[prize][0]);
-      $('#tillykke').html(items[prize][0]+ " har f&#248;dselsdag! Bunde bundee ;)");
+      $('#tillykke').html(items[prize][0]+ " har vundet! Bund!");
 
       if(winner.length == 11){
         url = "https://www.youtube.com/embed/" + winner + "?autoplay=1&rel=0";
