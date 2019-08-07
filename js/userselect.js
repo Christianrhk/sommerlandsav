@@ -15,7 +15,8 @@ var app = new function() {
     ["DR. PJUSKEDUSK", ["lQlIhraqL7o"], "profil/peter.jpeg",true],
     ["Donald", ["0NTDqqnH9Bk"], "profil/rolf.jpg",true],
     ["SlidteGitte", ["CtwJvgPJ9xw"], "profil/sallie.jpg",true],
-    ["Bundtner", ["OcHdHNbC3jM"], "profil/signe.jpeg",true]
+    ["Bundtner", ["OcHdHNbC3jM"], "profil/signe.jpeg",true],
+    ["Mamacider", ["OuWNdUUpqb0"],"profil/emil.pngd",true]
     ];
 
   this.Count = function() {

@@ -25,7 +25,8 @@ var items = [
     ["DR. PJUSKEDUSK", ["lQlIhraqL7o"], "profil/peter.jpeg"],
     ["Donald", ["0NTDqqnH9Bk"], "profil/rolf.jpg"],
     ["SlidteGitte", ["CtwJvgPJ9xw"], "profil/sallie.jpg"],
-    ["Bundtner", ["OcHdHNbC3jM"], "profil/signe.jpeg"]
+    ["Bundtner", ["OcHdHNbC3jM"], "profil/signe.jpeg"],
+    ["Mamacider", ["OuWNdUUpqb0"],"profil/emil.pngd"]
   ];
 
 var extrafield = ["Alle", ["U0cIIbK71_o"], "profil/alle.jpg"];
