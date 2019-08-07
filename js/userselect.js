@@ -16,7 +16,12 @@ var app = new function() {
     ["Donald", ["0NTDqqnH9Bk"], "profil/rolf.jpg",true],
     ["SlidteGitte", ["CtwJvgPJ9xw"], "profil/sallie.jpg",true],
     ["Bundtner", ["OcHdHNbC3jM"], "profil/signe.jpeg",true],
-    ["Mamacider", ["OuWNdUUpqb0"],"profil/emil.pngd",true]
+    ["Mamacider", ["OuWNdUUpqb0"],"profil/emil.pngd",true],
+    ["Odder", ["lQlIhraqL7o"],"profil/odder.jpg",true],
+    ["PAM", ["R7yfISlGLNU"], "profil/pam.jpg",true],
+    ["Malibund", ["GI6CfKcMhjY"], "profil/fuckingidiot.jpg",true],
+    ["havfrue", ["VLnWf1sQkjY"], "profil/havfrue.jpg",true],
+    ["david", ["Jr9Kaa1sycs"], "profil/david.jpg",true]
     ];
 
   this.Count = function() {
