@@ -26,7 +26,12 @@ var items = [
     ["Donald", ["0NTDqqnH9Bk"], "profil/rolf.jpg"],
     ["SlidteGitte", ["CtwJvgPJ9xw"], "profil/sallie.jpg"],
     ["Bundtner", ["OcHdHNbC3jM"], "profil/signe.jpeg"],
-    ["Mamacider", ["OuWNdUUpqb0"],"profil/emil.pngd"]
+    ["Mamacider", ["OuWNdUUpqb0"],"profil/emil.png"],
+    ["Odder", ["lQlIhraqL7o"],"profil/odder.jpg"],
+    ["PAM", ["R7yfISlGLNU"], "profil/pam.jpg"],
+    ["Malibund", ["GI6CfKcMhjY"], "profil/fuckingidiot.jpg"],
+    ["havfrue", ["VLnWf1sQkjY"], "profil/havfrue.jpg"],
+    ["david", ["Jr9Kaa1sycs"], "profil/david.jpg"]
   ];
 
 var extrafield = ["Alle", ["U0cIIbK71_o"], "profil/alle.jpg"];
