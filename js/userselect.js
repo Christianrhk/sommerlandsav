@@ -1,27 +1,11 @@
 var app = new function() {
   this.el = document.getElementById('names');
   this.names = [
-    ["Cinna", ["jGflUbPQfW8"],"profil/christian.jpg",true], 
-    ["Knud", ["wTCO5tZ7zZ8"], "profil/HAFFE.png",true],
-    ["Aupairvers", ["y3Gw3uc2f24"], "profil/bao.jpg",true], 
-    ["Fader Bundløs", ["8oVndw4gRWQ"], "profil/AM.jpeg",true],
-    ["Hannah", ["9ZrAYxWPN6c"], "profil/anna.jpg",true],
-    ["Cockpete", ["siwpn14IE7E"], "profil/frederik.jpeg",true],
-    ["Slik'ma'lige", ["lp3SHXoIwBM"], "profil/kevin.jpg",true],
-    ["John Beere", ["hbMwvpUG-CE"], "profil/lasse.jpeg",true],
-    ["Ted Bundy", ["hAx6mYeC6pY"], "profil/lukas.jpg",true],
-    ["FlowerSour", ["WeYsTmIzjkw"], "profil/mads.jpeg",true],
-    ["Squirtle", ["HMqgVXSvwGo"], "profil/marie.jpeg",true],
-    ["DR. PJUSKEDUSK", ["lQlIhraqL7o"], "profil/peter.jpeg",true],
-    ["Donald", ["0NTDqqnH9Bk"], "profil/rolf.jpg",true],
-    ["SlidteGitte", ["CtwJvgPJ9xw"], "profil/sallie.jpg",true],
-    ["Bundtner", ["OcHdHNbC3jM"], "profil/signe.jpeg",true],
-    ["Mamacider", ["OuWNdUUpqb0"],"profil/emil.pngd",true],
-    ["Odder", ["lQlIhraqL7o"],"profil/odder.jpg",true],
-    ["PAM", ["R7yfISlGLNU"], "profil/pam.jpg",true],
-    ["Malibund", ["GI6CfKcMhjY"], "profil/fuckingidiot.jpg",true],
-    ["havfrue", ["VLnWf1sQkjY"], "profil/havfrue.jpg",true],
-    ["david", ["Jr9Kaa1sycs"], "profil/david.jpg",true]
+    ["CK", ["xr3Bytryl8Y"],"profil/CK.jpg",true], 
+    ["LARS", ["xr3Bytryl8Y"], "profil/LARS2.jpg",true],
+    ["PEDE", ["xr3Bytryl8Y"], "profil/PEDE.jpg",true], 
+    ["THEIS", ["xr3Bytryl8Y"], "profil/THEIS.jpg",true],
+    ["SAN", ["xr3Bytryl8Y"], "profil/SAN.jpg",true]
     ];
 
   this.Count = function() {

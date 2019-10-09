@@ -2,7 +2,7 @@ var game;
 var wheel;
 var canSpin;
 //var antalslices = prompt("Hvor mange personer er i? (2-100)","18")
-var hjulfarver = [0xD18CDF, 0xCA2360]
+var hjulfarver = [0x1637DA, 0x16B0DA]
 var hjulradius = 350
 var latestHits = [];
 
@@ -11,11 +11,11 @@ var latestHits = [];
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var items = [
-    ["CK", ["jGflUbPQfW8"],"profil/CK.jpg"], 
-    ["LARS", ["wTCO5tZ7zZ8"], "profil/LARS2.jpg"],
-    ["PEDE", ["y3Gw3uc2f24"], "profil/PEDE.jpg"], 
-    ["THEIS", ["8oVndw4gRWQ"], "profil/THEIS.jpeg"],
-    ["SAN", ["9ZrAYxWPN6c"], "profil/SAN.jpg"],
+    ["CK", ["xr3Bytryl8Y"],"profil/CK.jpg"], 
+    ["LARS", ["xr3Bytryl8Y"], "profil/LARS2.jpg"],
+    ["PEDE", ["xr3Bytryl8Y"], "profil/PEDE.jpg"], 
+    ["THEIS", ["xr3Bytryl8Y"], "profil/THEIS.jpg"],
+    ["SAN", ["xr3Bytryl8Y"], "profil/SAN.jpg"]
   ];
 
 var extrafield = ["Alle", ["U0cIIbK71_o"], "profil/alle.jpg"];
