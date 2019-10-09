@@ -14,8 +14,8 @@ var items = [
     ["CK", ["xr3Bytryl8Y"],"profil/CK.jpg"], 
     ["LARS", ["xr3Bytryl8Y"], "profil/LARS2.jpg"],
     ["PEDE", ["xr3Bytryl8Y"], "profil/PEDE.jpg"], 
-    ["THEIS", ["xr3Bytryl8Y"], "profil/THEIS.jpg"],
-    ["SAN", ["xr3Bytryl8Y"], "profil/SAN.jpg"]
+    ["THEIS", ["U0cIIbK71_o"], "profil/THEIS.jpg"],
+    ["SAN", ["qtuvP8En0vU"], "profil/SAN.jpg"]
   ];
 
 var extrafield = ["Alle", ["U0cIIbK71_o"], "profil/alle.jpg"];
