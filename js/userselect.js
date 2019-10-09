@@ -4,7 +4,7 @@ var app = new function() {
     ["CK", ["xr3Bytryl8Y"],"profil/CK.jpg",true], 
     ["LARS", ["xr3Bytryl8Y"], "profil/LARS2.jpg",true],
     ["PEDE", ["xr3Bytryl8Y"], "profil/PEDE.jpg",true], 
-    ["THEIS", ["xr3Bytryl8Y"], "profil/THEIS.jpg",true],
+    ["THEIS", ["U0cIIbK71_o"], "profil/THEIS.jpg",true],
     ["SAN", ["xr3Bytryl8Y"], "profil/SAN.jpg",true]
     ];
 
