@@ -11,27 +11,11 @@ var latestHits = [];
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var items = [
-    ["Cinna", ["jGflUbPQfW8"],"profil/christian.jpg"], 
-    ["Knud", ["wTCO5tZ7zZ8"], "profil/HAFFE.png"],
-    ["Aupairvers", ["y3Gw3uc2f24"], "profil/bao.jpg"], 
-    ["Fader Bundløs", ["8oVndw4gRWQ"], "profil/AM.jpeg"],
-    ["Hannah", ["9ZrAYxWPN6c"], "profil/anna.jpg"],
-    ["Cockpete", ["siwpn14IE7E"], "profil/frederik.jpeg"],
-    ["Slik'ma'lige", ["lp3SHXoIwBM"], "profil/kevin.jpg"],
-    ["John Beere", ["hbMwvpUG-CE"], "profil/lasse.jpeg"],
-    ["Ted Bundy", ["hAx6mYeC6pY"], "profil/lukas.jpg"],
-    ["FlowerSour", ["WeYsTmIzjkw"], "profil/mads.jpeg"],
-    ["Squirtle", ["HMqgVXSvwGo"], "profil/marie.jpeg"],
-    ["DR. PJUSKEDUSK", ["lQlIhraqL7o"], "profil/peter.jpeg"],
-    ["Donald", ["0NTDqqnH9Bk"], "profil/rolf.jpg"],
-    ["SlidteGitte", ["CtwJvgPJ9xw"], "profil/sallie.jpg"],
-    ["Bundtner", ["OcHdHNbC3jM"], "profil/signe.jpeg"],
-    ["Mamacider", ["OuWNdUUpqb0"],"profil/emil.png"],
-    ["Odder", ["lQlIhraqL7o"],"profil/odder.jpg"],
-    ["PAM", ["R7yfISlGLNU"], "profil/pam.jpg"],
-    ["Malibund", ["GI6CfKcMhjY"], "profil/fuckingidiot.jpg"],
-    ["havfrue", ["VLnWf1sQkjY"], "profil/havfrue.jpg"],
-    ["david", ["Jr9Kaa1sycs"], "profil/david.jpg"]
+    ["CK", ["jGflUbPQfW8"],"profil/CK.jpg"], 
+    ["LARS", ["wTCO5tZ7zZ8"], "profil/LARS2.jpg"],
+    ["PEDE", ["y3Gw3uc2f24"], "profil/PEDE.jpg"], 
+    ["THEIS", ["8oVndw4gRWQ"], "profil/THEIS.jpeg"],
+    ["SAN", ["9ZrAYxWPN6c"], "profil/SAN.jpg"],
   ];
 
 var extrafield = ["Alle", ["U0cIIbK71_o"], "profil/alle.jpg"];
