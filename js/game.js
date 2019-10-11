@@ -1,7 +1,6 @@
 var game;
 var wheel;
 var canSpin;
-//var antalslices = prompt("Hvor mange personer er i? (2-100)","18")
 var hjulfarver = [0x1637DA, 0x16B0DA]
 var hjulradius = 350
 var latestHits = [];
@@ -15,7 +14,9 @@ var items = [
     ["LARS", ["xr3Bytryl8Y"], "profil/LARS2.jpg"],
     ["PEDE", ["xr3Bytryl8Y"], "profil/PEDE.jpg"], 
     ["THEIS", ["U0cIIbK71_o"], "profil/THEIS.jpg"],
-    ["SAN", ["qtuvP8En0vU"], "profil/SAN.jpg"]
+    ["SAN", ["qtuvP8En0vU"], "profil/SAN.jpg"],
+    ["ALS", ["Qa_2C15Uh5c"], "profil/ALS.jpg"],
+    ["EMIL", ["s---hhpjFqQ"], "profil/EMIL.jpg"]
   ];
 
 var extrafield = ["Alle", ["U0cIIbK71_o"], "profil/alle.jpg"];
@@ -236,11 +237,9 @@ playGame.prototype = {
       var url;
       var antalsange = game.rnd.between(0, items[prize][1].length-1);
 
-
-
       var winner = items[prize][1][antalsange];
       console.log(items[prize][0]);
-      $('#tillykke').html(items[prize][0]+ " har vundet! Bund!");
+      $('#tillykke').html(items[prize][0]+ " har fødselsdag! Bunde bundee ;) !");
 
       if(winner.length == 11){
         url = "https://www.youtube.com/embed/" + winner + "?autoplay=1&rel=0";
