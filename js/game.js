@@ -10,13 +10,14 @@ var latestHits = [];
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var items = [
-    ["CK", ["xr3Bytryl8Y"],"profil/CK.jpg"], 
-    ["LARS", ["xr3Bytryl8Y"], "profil/LARS2.jpg"],
+    ["CK", ["r_Q40kOt9X0"],"profil/CK.jpg"], 
+    ["LARS", ["J6p0S--1958"], "profil/LARS2.jpg"],
     ["PEDE", ["xr3Bytryl8Y"], "profil/PEDE.jpg"], 
     ["THEIS", ["U0cIIbK71_o"], "profil/THEIS.jpg"],
     ["SAN", ["qtuvP8En0vU"], "profil/SAN.jpg"],
     ["ALS", ["Qa_2C15Uh5c"], "profil/ALS.jpg"],
-    ["EMIL", ["s---hhpjFqQ"], "profil/EMIL.jpg"]
+    ["EMIL", ["s---hhpjFqQ"], "profil/EMIL.jpg"],
+    ["OTTO", ["KHqNvNgtpLU"], "profil/OTTO.jpg"]
   ];
 
 var extrafield = ["Alle", ["U0cIIbK71_o"], "profil/alle.jpg"];
