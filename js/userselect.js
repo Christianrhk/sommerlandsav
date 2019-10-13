@@ -7,7 +7,7 @@ var app = new function() {
     ["THEIS", ["U0cIIbK71_o"], "profil/THEIS.jpg",true],
     ["SAN", ["qtuvP8En0vU"], "profil/SAN.jpg",true],
     ["ALS", ["Qa_2C15Uh5c"], "profil/ALS.jpg",true],
-    ["EMIL", ["s---hhpjFqQ"], "profil/EMIL.jpg",true],
+    ["EMIL", ["s---hhpjFqQ"], "profil/EMIL.png",true],
     ["OTTO", ["KHqNvNgtpLU"], "profil/OTTO.jpg",true]
     ];
 
