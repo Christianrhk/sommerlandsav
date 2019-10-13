@@ -16,7 +16,7 @@ var items = [
     ["THEIS", ["U0cIIbK71_o"], "profil/THEIS.jpg"],
     ["SAN", ["qtuvP8En0vU"], "profil/SAN.jpg"],
     ["ALS", ["Qa_2C15Uh5c"], "profil/ALS.jpg"],
-    ["EMIL", ["s---hhpjFqQ"], "profil/EMIL.jpg"],
+    ["EMIL", ["s---hhpjFqQ"], "profil/EMIL.png"],
     ["OTTO", ["KHqNvNgtpLU"], "profil/OTTO.jpg"]
   ];
 
